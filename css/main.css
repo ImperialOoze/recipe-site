@@ -69,6 +69,13 @@ p {
 	background-color: #EAE5E5;
 }
 
+ul {
+	list-style-type: none;
+}
+
+h2.ingredients {
+	list-style-type: none;
+}
 
 .blue-bg {
 	background-color: #92DCE5;
